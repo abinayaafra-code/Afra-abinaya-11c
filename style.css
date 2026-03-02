@@ -132,4 +132,86 @@ form button{
 }
 form button :hover{
     background-color: #2980b9;
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d1bea8;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  background: white;
+  margin: auto;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.body {
+  font-family: Arial, sans-serif;
+  background-color: #d1bea8;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  background: #fffaf3;
+  margin: auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.15);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #d1bea8;
+  padding: 40px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: #fffaf3;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.15);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.event-box {
+  background: #f3e8dc;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.event-box h2 {
+  margin-top: 0;
+  color: #5a3e1b;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
 }
